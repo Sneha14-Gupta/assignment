@@ -30,7 +30,7 @@ main {
   background-position: center;
   background-size: cover;
   rotate: -10deg;
-  left: 30px;
+  /* left: 30px; */
   top: 3px;
   box-shadow: -31px 42px 34px -22px rgba(113, 103, 103, 0.75);
 
@@ -78,7 +78,7 @@ main {
   background-color: palevioletred;
   rotate: 14deg;
   top: 14px;
-  right: 99px;
+  right: 90px;
   background-image: url(https://plus.unsplash.com/premium_vector-1712565437185-13aa43365624?q=80&w=450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
   background-size: cover;
   box-shadow: -31px 42px 34px -22px rgba(113, 103, 103, 0.75);
